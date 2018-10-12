@@ -1,5 +1,7 @@
 # basic-app
 
+[![Build Status](https://travis-ci.com/dbdeboban/BasicApp.svg?branch=master)](https://travis-ci.com/dbdeboban/BasicApp)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server

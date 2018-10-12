@@ -12,10 +12,6 @@ res.sendFile(path.join(__dirname,'/dist/basic-app/index.html'));
 
 });
 
-app.get('*', function (req, res) {
-  res.sendFile('index.html');
-});
-
 app.listen(process.env.PORT || 8080, ()=>{
 console.log('Server started');
 })
